@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "matricule": "0002",
+      "nom": "Johnny",
+      "prenom": "Doe",
+      "age": "18",
+      "cni": "1-9595-1959-4455-49596",
+      "id": "2"
+    },
+    {
+      "matricule": "0003",
+      "nom": "Johnna",
+      "prenom": "Doe",
+      "age": "24",
+      "cni": "1-9595-1659-4955-49596",
+      "id": "3"
+    },
+    {
+      "matricule": "0004",
+      "nom": "James",
+      "prenom": "Doe",
+      "age": "22",
+      "cni": "1-9795-1951-4955-49596",
+      "id": "4"
+    },
+    {
+      "matricule": "0005",
+      "nom": "John",
+      "prenom": "Dan",
+      "age": "24",
+      "cni": "1-9595-1959-4955-49596",
+      "id": "5"
+    },
+    {
+      "matricule": "0006",
+      "nom": "John",
+      "prenom": "Peer",
+      "age": "19",
+      "cni": "1-9595-1959-4955-49596",
+      "id": "6"
+    },
+    {
+      "matricule": "0007",
+      "nom": "Jonna",
+      "prenom": "Don",
+      "age": "22",
+      "cni": "1-9595-1959-4955-49696",
+      "id": "7"
+    },
+    {
+      "matricule": "0008",
+      "nom": "Job",
+      "prenom": "Doe",
+      "age": "37",
+      "cni": "1-9595-1959-4955-45296",
+      "id": "8"
+    },
+    {
+      "matricule": "0009",
+      "nom": "John",
+      "prenom": "Doe",
+      "age": "30",
+      "cni": "1-9595-1959-4955-49596",
+      "id": "9"
+    },
+    {
+      "matricule": "0010",
+      "nom": "Daniel",
+      "prenom": "Brown",
+      "age": "24",
+      "cni": "1-9595-1959-4955-49596",
+      "id": "10"
+    },
+    {
+      "id": "32d4",
+      "matricule": "0001",
+      "nom": "Christian",
+      "prenom": "Katsh",
+      "age": "21",
+      "cni": "1-4456-45455-5562-5566"
+    }
+  ]
+}

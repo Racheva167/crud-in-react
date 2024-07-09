@@ -1,0 +1,10 @@
+body {
+  justify-content: center;
+  align-items: center;
+}
+table {
+  border-collapse: collapse;
+}
+table, tr, th {
+  padding: 0px 2px;
+}
